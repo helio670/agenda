@@ -1,5 +1,5 @@
 # agenda
-This is the main course agenda and resources central collection.
+This is the main course agenda and resources central collection.  Under construction - the specific order and content are still being defined.  
 
 __Note:__ Please follow the [setup](https://github.com/helio670/setup) guidelines prior to this training.
 
