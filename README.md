@@ -3,7 +3,7 @@ This is the main course agenda and resources central collection.  Under construc
 
 __Note:__ Please follow the [setup](https://github.com/helio670/setup) guidelines prior to this training.
 
-- [Introductory Python Bootcamp](https://github.com/helio670/bootcamp):  April 15 & 17, 2019 in Building 21  (alternate times:  April 8 & 12, 2019 in Building 34)
+- [Introductory Python Bootcamp](https://github.com/helio670/bootcamp/wiki):  April 15 & 17, 2019 in Building 21  (alternate times:  April 8 & 12, 2019 in Building 34)
 - [Data Science](https://github.com/helio670/datascience)  
 - [Heliophysics Packages](https://github.com/helio670/hpackages)  
 - [Machine Learning](https://github.com/helio670/ml)  
