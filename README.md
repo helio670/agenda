@@ -9,15 +9,9 @@ Please follow the [setup](http://github.com/helio670/setup) guidelines detailing
 | Course | Material | Dates | Location | Notes |
 |--------|----------|-------|----------|-------|
 | Introductory Python Bootcamp | [Link](http://github.com/helio670/bootcamp/wiki) | April 15 & 17, 2019 | Bldg 21 Rm | Alternates: April 8 & 12, 2019 in Bldg 34 |
-
-* [Introductory Python Bootcamp]()
-
-__Note:__ Please follow the [setup](https://github.com/helio670/setup) guidelines prior to this training.
-
-- [Introductory Python Bootcamp](https://github.com/helio670/bootcamp/wiki):  April 15 & 17, 2019 in Building 21  (alternate times:  April 8 & 12, 2019 in Building 34)
-- [Data Science](https://github.com/helio670/datascience)  
-- [Heliophysics Packages](https://github.com/helio670/hpackages)  
-- [Machine Learning](https://github.com/helio670/ml)  
-- [GPU](https://github.com/helio670/gpu)  
-- [Open Source Publishing](https://github.com/helio670/pub)  
-- [Advanced Plotting and Visualizations](https://github.com/helio670/viz)
+| Data Science | [Link](http://github.com/helio670/datascience) | TBD | | |
+| Heliophysics Packages | [Link](http://github.com/helio670/hpackages) | TBD | | |
+| Machine Learning | [Link](http://github.com/helio670/ml) | TBD | | |
+| GPU Processing | [Link](http://github.com/helio670/gpu) | TBD | | |
+| Open Source Publishing | [Link](http://github.com/helio670/pub) | TBD | | |
+| Advanced Plotting and Visualizations | [Link](http://github.com/helio670/viz) | TBD | | |
