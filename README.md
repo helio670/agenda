@@ -9,7 +9,7 @@ Please follow the [setup](http://github.com/helio670/setup) guidelines detailing
 | Course | Material | Dates | Location | Notes |
 |--------|----------|-------|----------|-------|
 | Introductory Python Bootcamp | [Link](http://github.com/helio670/bootcamp/wiki) | April 15 & 17, 2019 | Bldg 21 Rm | Alternates: April 8 & 12, 2019 in Bldg 34 |
-| Data Science | [Link](http://github.com/helio670/datascience) | TBD | | |
+| Data Science Packages | [Link](http://github.com/helio670/datascience) | TBD | | |
 | Heliophysics Packages | [Link](http://github.com/helio670/hpackages) | TBD | | |
 | Machine Learning | [Link](http://github.com/helio670/ml) | TBD | | |
 | GPU Processing | [Link](http://github.com/helio670/gpu) | TBD | | |
