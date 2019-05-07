@@ -9,6 +9,7 @@ Please follow the [setup](http://github.com/helio670/setup) guidelines detailing
 | Course | Material | Dates | Location | Notes |
 |--------|----------|-------|----------|-------|
 | Introductory Python Bootcamp | [Link](http://github.com/helio670/bootcamp/wiki) | April 15 & 17, 2019 | Bldg 21 Rm 183 | Alternates: April 8 & 12, 2019 in Bldg 34 |
+| Advanced Plotting with IDL | [Link](https://pyoung.org/quick_guides/idl_plot_objects.html) | 13 May 2019 | Bldg 21 Rm 183 10-1230 |
 | Heliophysics Packages | [Link](http://github.com/helio670/hpackages) | Currently working on schedule | | |
 | Data Science Packages | [Link](http://github.com/helio670/datascience) | TBD | | |
 | Machine Learning | [Link](http://github.com/helio670/ml) | TBD | | |
