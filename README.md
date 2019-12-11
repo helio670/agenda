@@ -12,4 +12,4 @@ Please follow the [setup](http://github.com/helio670/setup) guidelines detailing
 | Advanced Plotting with IDL | [Link](http://github.com/helio670/idl) | 13 May 2019 | Bldg 21 Rm 183 10-1230 |
 | Data Science Packages | [Link](http://github.com/helio670/datascience) | 28 May 2019 | Bldg 21 Room 183A 900-1600 |
 | Advanced bootcamp and data science | [Link](https://www.nccs.nasa.gov/nccs-users/user-events/python-classes) | New classes each month |
-Onsite at various locations | Classes hosted through NCCS |
+Onsite at various locations | 
